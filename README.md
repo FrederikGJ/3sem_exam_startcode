@@ -1,6 +1,6 @@
 # Eksamen 3. semester efterår 2023 
 ### Frederik G. Johannessen - cph-fj139@cphbusiness.dk
-
+Startkode tilpasset efter mine ønsker. 
 ## Task 1
 
 ## Task 2
